@@ -1,5 +1,5 @@
-class Prep{
-public static void main(String[] args) {
-    
-}
+class prep{
+    public static void main(String[] args) {
+     int a=10;
+    }
 }

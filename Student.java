@@ -1,4 +1,4 @@
-
+//usig constrcutors
 public class Student{
  String name;
  int age;

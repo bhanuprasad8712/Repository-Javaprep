@@ -7,3 +7,4 @@ public class LaptopDrive {
         L2.laptopDetails();
     }
 }
+ 

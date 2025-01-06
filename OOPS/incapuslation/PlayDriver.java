@@ -6,5 +6,6 @@ public class PlayDriver {
         playobj.setAge(24);
         playobj.setName("Rahul Sir");
         playing(new playwith(32,"rajesh"));
+        System.out.println(  playing);
     }
 }
